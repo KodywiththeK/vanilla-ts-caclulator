@@ -1,0 +1,20 @@
+{
+  "name": "ts-calculator",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "docs" : "jsdoc -c jsdoc.json"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "vite": "^2.9.5"
+  },
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "jsdoc": "^4.0.0"
+  }
+}
